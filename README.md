@@ -1,2 +1,2 @@
-# Plovdiv-Uni-C--OOP-Project
-C# OOP project third trimester first year
+Проект по ООП на Божидар Георгиев СТД-з 1 курс 1агрупа
+ФН:1701682017
